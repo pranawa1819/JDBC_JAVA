@@ -1,9 +1,8 @@
-package Chapter5;
+package TCPSocket;
 
 import java.io.PrintWriter;
 import java.net.Socket;
 import java.io.*;
-import java.net.*;
 
 public class SocClient {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Chapter5;
+package TCPSocket;
 import java.io.*;
 import java.net.*;
 public class SocServer {
